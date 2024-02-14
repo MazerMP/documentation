@@ -91,7 +91,7 @@ Of course, you don't have to add only camera tracks, several others types of tra
 |  Fx Colors |  Duplicate track |
 |  Triangles2D |  Draw triangles on the screen |
 |  FX Dirtylens |  Add dirty lens effect on the screen |
-|  Editing cut |  ? |
+|  Editing cut |  Designate timespans to be rendered when making a video |
 |  Vehicule light |  Turn on the lights of the car |
 |  Fog |  Add a fog effect on the sky (can also change the color of the sky) |
 |  Interface |  Add a custom UI via Manialink code |
